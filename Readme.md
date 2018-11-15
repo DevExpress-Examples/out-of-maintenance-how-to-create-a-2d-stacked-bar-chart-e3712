@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/StackedBarChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StackedBarChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Stacked Bar chart
 
 
